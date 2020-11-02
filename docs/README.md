@@ -1,6 +1,6 @@
-# Introduction du cours Travailler avec R
+# Warren DANIEL
 
-![Photo perso](images/0.jpg)
+![Photo Perso](images/0.jpg)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 

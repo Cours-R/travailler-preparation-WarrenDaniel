@@ -1,6 +1,6 @@
 # Warren DANIEL
 
-![Logo EcoFoG](images/0.png)
+![Photo Perso](images/0.jpg)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 

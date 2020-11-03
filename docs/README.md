@@ -1,6 +1,6 @@
 # Warren DANIEL
 
-![Photo Perso](images/0.jpg)
+![Photo Perso](images/w.jpg)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
